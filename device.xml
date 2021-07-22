@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <project path="device/xiaomi/sm7350ab-common" name="Xiaomi-renoir/device_xiaomi_sm7350ab-common" remote="floko" />
-  <project path="device/xiaomi/renoir" name="Xiaomi-renoir/device_xiaomi_renoir" remote="floko" />
-  <project path="vendor/xiaomi" name="Xiaomi-renoir/proprietary_vendor_xiaomi" remote="floko" />
+  <project path="device/xiaomi/sm7350ab-common" name="Xiaomi-renoir/device_xiaomi_sm7350ab-common" remote="floko" revision="eleven" />
+  <project path="device/xiaomi/renoir" name="Xiaomi-renoir/device_xiaomi_renoir" remote="floko" revision="eleven" />
+  <project path="vendor/xiaomi" name="Xiaomi-renoir/proprietary_vendor_xiaomi" remote="floko" revision="eleven" />
 
 </manifest>
